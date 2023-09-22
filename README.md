@@ -10,5 +10,7 @@ _Full Beginner Project in Tableau | Tableau Tutorials for Beginners - Alex The A
 
 ### Titanic (Public)
 
+![Titanic (train) - Kaggle](https://github.com/Majo-es/TableauExercises/assets/43044338/1fcfa26d-4567-4840-8970-44d62cf25794)
+
 
 _Tableau for Data Science and Data Visualization | Crash Course Tutorial - freeCodeCamp_
