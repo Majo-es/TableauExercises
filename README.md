@@ -16,3 +16,11 @@ _Full Beginner Project in Tableau | Tableau Tutorials for Beginners - Alex The A
 
 
 _Tableau for Data Science and Data Visualization | Crash Course Tutorial - freeCodeCamp_
+
+### Pokémon (Public)
+Sample data created by Alberto Barradas (Kaggle)
+![Dashboard](https://github.com/Majo-es/TableauExercises/assets/43044338/15ab4e1b-39a7-4928-b5f0-77534c53fe81)
+
+_Build a Tableau Dashboard | Pokemon Data Analysis - Gaurav Sahani_
+
+
