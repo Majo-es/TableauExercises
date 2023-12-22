@@ -1,4 +1,4 @@
-# TableauExercises
+# TableauExercises (Data viz)
 Tableau Exercises (Data samples from Kaggle)
 
 ### AirBnB (Desktop)
